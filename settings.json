@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "justin",
   "bot-account": {
     "username": "Technoblade",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobos13.aternos.me",
-    "port": 29195,
+    "ip": "Epstiensworld.aternos.me",
+    "port": 44945,
     "version": "1.21.1"
   },
   "position": {
@@ -30,9 +30,9 @@
       "repeat": true,
       "repeat-delay": 500,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "I am jeffry epstien",
+        "welcome to my world",
+        "i like drilling!"
       ]
     },
     "chat-log": true,
@@ -82,7 +82,7 @@
     "events": {
       "connect": true,
       "disconnect": true,
-      "chat": false
+      "chat": true
     }
   },
   "chat": {
